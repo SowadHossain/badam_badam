@@ -1,2 +1,2 @@
-print("hello   MF")
+print("badam badam dada kacha badam")
  
